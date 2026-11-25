@@ -1,4 +1,4 @@
-## Hi, I'm Khan Imad
+## Hi, I'm Umer Farooq
 
 I work on machine learning and AI: training and evaluating models, building data pipelines, and turning LLMs into useful applications.
 
